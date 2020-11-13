@@ -1,5 +1,5 @@
 # Getting Started
-This project was created with `create-react-app`. Clone the repo and run `npm install` via the terminal. Although projects with `create-react-app` have out of the box support for React Testing Library, testing will be covered in step 3 due to the time constraint as described in the guidelines. Please see that repo for instructions related to testing. The app can be started with `npm start`. Look to the code in `src/fizzBuzz` to see how Real FizzBuzz was implemented.
+This project was created with `create-react-app`. Clone the repo and run `npm install` via the terminal. Although projects with `create-react-app` have out of the box support for React Testing Library, testing will be covered in [Part 3](https://github.com/christopher-hague/real-fizz-buzz-3) due to the time constraint as described in the guidelines. Please see that repo for instructions related to testing. The app can be started with `npm start`. Look to the code in `src/fizzBuzz` to see how Real FizzBuzz was implemented.
 
 # Overview
 The directions for Real FizzBuzz - Part 1 are pretty straightforward. When given a range of numbers, render them according to how they meet the following criteria:
